@@ -1,0 +1,15 @@
+C:\Users\Yulya\Desktop\home_7\func_akker\bin\Debug\net6.0\func_akker.exe
+C:\Users\Yulya\Desktop\home_7\func_akker\bin\Debug\net6.0\func_akker.deps.json
+C:\Users\Yulya\Desktop\home_7\func_akker\bin\Debug\net6.0\func_akker.runtimeconfig.json
+C:\Users\Yulya\Desktop\home_7\func_akker\bin\Debug\net6.0\func_akker.dll
+C:\Users\Yulya\Desktop\home_7\func_akker\bin\Debug\net6.0\func_akker.pdb
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.csproj.AssemblyReference.cache
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.AssemblyInfoInputs.cache
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.AssemblyInfo.cs
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.csproj.CoreCompileInputs.cache
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.dll
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\refint\func_akker.dll
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.pdb
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\func_akker.genruntimeconfig.cache
+C:\Users\Yulya\Desktop\home_7\func_akker\obj\Debug\net6.0\ref\func_akker.dll
